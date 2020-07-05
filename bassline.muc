@@ -1,0 +1,13 @@
+#pcm mucompcm.bin
+
+# *1{o3g8>gr<g>fr<g>gr<g>fr<g>f&g}
+A T120 v15l16 @30 L [*1]4 k3 *1 k5 *1 k0 *1 <g8 r4. l8 r8 eff+
+B T120 v13l2o5 @23 M30,1,6,4 L dfecdfega>c< b- a g1 <g2.r4
+
+# *2{[r8gg]16 [r8 b- b-]4 [r8>cc]4 [r8<gg]8}
+H T120 v12l16o5 @64 L *2
+I T120 v12l16o5 @64 L k7 *2
+
+;J T120 v15l4 @72 [c]32 L @72 c @58 c
+;K T120 v120l4o1 @1 [c]32 L @1 c @3 c
+G T120 v63,31,31,31,31,31,31l4 @1 [c]32 L @1 c @3 c
