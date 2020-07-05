@@ -9,6 +9,14 @@ Learning how to write MML and mucom88 songs.
 
 [mucom88]: https://github.com/onitama/mucom88
 
+## Recording to .wav
+
+Record 40 seconds:
+
+```
+$ mucom88 -w bassline.wav -x -l 40 bassline.muc
+```
+
 ## References
 
 - <https://onitama.tv/mucom88/index_en.html>
