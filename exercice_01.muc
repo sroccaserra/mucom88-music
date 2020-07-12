@@ -1,3 +1,13 @@
-A T60 @26 v8 o4 l8 a4 b >c+ | d4 c+ <b | a4 b >c+<  | b4
+A T60 @26 v8 o4 l8 a4 b >c+ | d4 c+ <b | a4 b >c+<  | b2
 B T60 @26 v8 o4 l2 e        | f        | f+         | e
-C T60 @72 v4 o3 l8 [c4 c c]3 c4
+
+C T60 @72 v4 o3 l8 [[c4 c c]3 c2]4
+
+A a4 b >c+ | d4 c+ <b | a4 b >c+<  | g+2
+B e        | f        | f+         | e
+
+A a4 b >c+ | d4 c+ <b | a4 b >c+<  | b2
+B e        | f        | f+         | e
+
+A a4 b >c+ | d4 c+ <b | a4 g+ f+ | e2
+B e        | f        | f+       | <b
