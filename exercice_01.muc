@@ -1,8 +1,8 @@
-C T60 @72 v4 o3 l8
+C T60 @72 v10 o3 l8
 A T60 @26 v8 o4 l8
 B T60 @26 v8 o4 l2
 
-C [[c4 c c]3 c2]4
+C [c4 c c]15 c2
 
 A a4 b >c+ d4 c+ <b | a4 b >c+<  b2 | a4 b >c+ d4 c+ <b | a4 b >c+<  g+2
 B e        f        | f+         e  | e        f        | f+         e
