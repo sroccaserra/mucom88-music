@@ -1,8 +1,7 @@
-C T60 @72 v10 o3 l8
 A T60 @26 v8 o4 l8
 B T60 @26 v8 o4 l2
+J T60 @72 v10 o3 l8
 
-C [c4 c c]15 c2
-
-A a4 b >c< b4 a g | a4 g f g4
-B e        d      | c      e
+A a4 b >c< b4 a g | a4 g f g2 | a4 b >c< b4 >c d | c4 d e d2
+B e        d      | c      e  | c        d       | e      f+
+# J [c4 c c]7 c2
