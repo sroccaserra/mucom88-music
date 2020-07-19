@@ -2,6 +2,22 @@ A T60 @26 v8 o4 l8
 B T60 @26 v8 o4 l2
 C T60 @26 v8 o3 l2
 
-A a4 b >c< b4 a g | a4 g f g2 |  a4 b >c< b4 >c d |  c4 d e d2
-B e        d      | c      e  | >c        d       |  e      f+
-C a        g      | f     >c< | <a        b       | >c      d
+A a4 b >c< b4 a g | a4 g f g2
+B e        d      | c      e
+C a        g      | f     >c<
+
+A a4 b >c< b4 a g | a4 g f g2
+B e        d      | c      e
+C a        g      | f     >c<
+
+A  a4 b >c< b4 >c d |  c4 d e d2<
+B >c        d       |  e      f+<
+C <a        b       | >c      d
+
+A a4 b >c< b4 a g | a4 g f g2
+B e        d      | c      e
+C a        g      | f     >c<
+
+A a4 b >c< b4 a g | a4 g a- a2
+B e        d      | c4. <b8 a
+C a        g      | f      >e
